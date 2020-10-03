@@ -1,6 +1,10 @@
-## Available Scripts
+## Fetch Software Engineering - Front End
 
-In the project directory, you can run:
+### To run
+Please run the backend before running the frontend
 
-### `yarn start`
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### `Backend`
+type 'yarn start'
+
+### `Frontend`
+type 'yarn start'
